@@ -2,7 +2,6 @@
 
 This project is a Java application that connects to a PostgreSQL database using JDBC. It allows users to perform basic CRUD (Create, Read, Update, Delete) operations on student records.
 
-This project is a Java application that connects to a PostgreSQL database using JDBC. It allows users to perform basic CRUD (Create, Read, Update, Delete) operations on student records.
 
 **Technologies Used**
 - Java
